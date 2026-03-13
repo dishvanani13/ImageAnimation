@@ -5,5 +5,6 @@ This is a sample project on Animation.
 
 
 <p align="center">
-  <img src="Images/Girl1.png" width="300"/>
+  <img src="Images/Girl1.png" width="300" height="500/>
+  <img src="Images/Girl2.png" width="300" height="500/>
 </p>
